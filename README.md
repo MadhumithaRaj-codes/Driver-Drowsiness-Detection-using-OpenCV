@@ -10,6 +10,7 @@ Published in IEEE ICACCS 2024
 
 📥 [Read the Paper](docs/Driver_Drowsiness_Detection_IEEE_2024.pdf)  
 🔗 DOI: https://doi.org/10.1109/ICACCS60874.2024.10716918  
+🔗 DOI: https://ieeexplore.ieee.org/document/10716918
 
 ## 🚀 Features
 - Real-time face detection using OpenCV  
