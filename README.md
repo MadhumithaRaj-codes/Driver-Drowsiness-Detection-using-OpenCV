@@ -194,7 +194,7 @@ Master’s Student in Cybersecurity
 
 # Connect With Me
 
-LinkedIn: YOUR_LINKEDIN_URL
+LinkedIn: https://www.linkedin.com/in/madhumitha-raj-629941211/?skipRedirect=true
 
 GitHub: https://github.com/MadhumithaRaj-codes
 
